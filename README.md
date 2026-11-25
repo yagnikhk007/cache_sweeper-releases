@@ -1,5 +1,7 @@
 # CacheSweeper Releases
 
+![CacheSweeper screenshot](docs/screenshot.png)
+
 Public release builds for [CacheSweeper](https://github.com/yagnikhk007/cache_sweeper) — a macOS menu bar app for clearing safe cache space (npm, browser/app caches, Xcode DerivedData, Trash) and erasing large unused iOS Simulators.
 
 Source is maintained privately. See the **Releases** tab on this repo for downloads.
